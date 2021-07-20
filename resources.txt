@@ -1,0 +1,3 @@
+https://vegibit.com/render-html-in-node-js/
+https://ilovecoding.org/courses/nodejs/lessons/creating-a-simple-web-app-with-nodejs
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit
