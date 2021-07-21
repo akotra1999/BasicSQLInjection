@@ -1,3 +1,5 @@
 # BasicSQLInjection
 
 This project is for demonstrating a basic SQL injection. I have created two webapps. SQL injection works on webapp.js but not on webapp2.js. webapp2.js uses placeholders. Check out the [demo](https://youtu.be/814LB41KYJ4)!
+
+Furthermore, I used code and seeked help from the following resources to create my own SQL injection demo. This [video](https://www.youtube.com/watch?v=3Axp3VDnf0I) shows how to perform a basic SQL injection. This [link](https://ilovecoding.org/courses/nodejs/lessons/creating-a-simple-web-app-with-nodejs) shows how to create a simple web app in node.js. I used this [website](https://vegibit.com/render-html-in-node-js/) for help rendering HTML in node.js. This [website](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit) helped me create a form in HTML. Lastly, these two pages explain how to use a database in node.js: page [1](https://www.mysqltutorial.org/mysql-nodejs/connect/) and [2](https://www.mysqltutorial.org/mysql-nodejs/select/).  
