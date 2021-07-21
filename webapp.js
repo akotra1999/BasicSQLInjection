@@ -1,7 +1,7 @@
 let http = require("http")
-let fs = require('fs');
-let qs = require('querystring');
-let mysql = require('mysql');
+let fs = require("fs");
+let qs = require("querystring");
+let mysql = require("mysql");
 require("dotenv").config();
 
 http.createServer(onRequest).listen(8888);
