@@ -1,0 +1,23 @@
+{
+  "name": "basicsqlinjection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akotra1999/BasicSQLInjection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akotra1999/BasicSQLInjection/issues"
+  },
+  "homepage": "https://github.com/akotra1999/BasicSQLInjection#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1"
+  }
+}
